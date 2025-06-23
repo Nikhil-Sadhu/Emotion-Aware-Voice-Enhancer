@@ -1,0 +1,30 @@
+# Byte-compiled / cache / log files
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# OS & IDE-specific
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Audio files / output
+outputs/
+*.wav
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Model files (optional — if too large or private)
+*.pkl
+*.joblib
+
+# Environment files
+*.env
