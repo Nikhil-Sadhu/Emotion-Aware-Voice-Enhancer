@@ -37,7 +37,7 @@ An AI-powered web app that detects emotions in voice recordings and transforms t
 
 ## 🌐 Live Demo
 
-> Coming soon on [Hugging Face Spaces](https://huggingface.co/spaces/) (optional)
+> Coming soon on [Hugging Face Spaces](https://huggingface.co/spaces/)
 
 ---
 
