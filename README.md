@@ -33,11 +33,6 @@ An AI-powered web app that detects emotions in voice recordings and transforms t
 ### 4. Web Interface
 - Built with Gradio: record → enhance → play → download.
 
----
-
-## 🌐 Live Demo
-
-> Coming soon on [Hugging Face Spaces](https://huggingface.co/spaces/)
 
 ---
 
