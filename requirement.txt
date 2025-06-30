@@ -1,0 +1,9 @@
+numpy
+pandas
+librosa>=0.10.0
+scikit-learn
+joblib
+soundfile
+gradio
+pydub
+praat-parselmouth
